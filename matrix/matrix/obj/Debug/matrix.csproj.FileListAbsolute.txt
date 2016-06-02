@@ -1,1 +1,6 @@
 D:\git\UpResRGZ\matrix\matrix\bin\Debug\matrix.exe.config
+D:\git\Matrix\matrix\matrix\bin\Debug\matrix.exe.config
+D:\git\Matrix\matrix\matrix\bin\Debug\matrix.exe
+D:\git\Matrix\matrix\matrix\bin\Debug\matrix.pdb
+D:\git\Matrix\matrix\matrix\obj\Debug\matrix.exe
+D:\git\Matrix\matrix\matrix\obj\Debug\matrix.pdb
